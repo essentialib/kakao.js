@@ -1,0 +1,1 @@
+function msgToCommand(msg: string)
